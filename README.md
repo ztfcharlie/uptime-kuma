@@ -1,3 +1,5 @@
 # uptime-kuma
 服务健康状态检测服务
-docker-compose up -d
+- mkdir data
+- chmod -R 777 data 
+- docker-compose up -d
